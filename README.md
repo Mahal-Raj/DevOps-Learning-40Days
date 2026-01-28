@@ -11,16 +11,18 @@ Each day focuses on a specific concept, tool, or workflow commonly used in real-
 ## 🗓️ Structure
 The repository is organized day-wise:
 
-Day-1 | Fundamentals of DevOps  
-Day-2 | Improve SDLC with DevOps  
-Day-3 | Virtual Machines – Introduction
-Day-4 | AWS & Azure – How to Create Virtual Machines
-Day-5 | Login to VM, Install and Configure AWS CLI
-Day-6 | Linux and its artitecture along with shell scripting basics and interview questions
-Day-7 | Monitor AWS resources with shell scritping 
-Day-8 | Real time Shell scripting Project
-Day-9 | Git and Github begineer's guide
-Day-10 | Git Branching Strategy: Important for Interviews!
+## 📅 Daily Topics (Days 1–10)
+
+1. **Day 1 | Fundamentals of DevOps**
+2. **Day 2 | Improve SDLC with DevOps**
+3. **Day 3 | Virtual Machines – Introduction**
+4. **Day 4 | AWS & Azure – How to Create Virtual Machines**
+5. **Day 5 | Login to VM, Install and Configure AWS CLI**
+6. **Day 6 | Linux and Its Architecture, Shell Scripting Basics & Interview Questions**
+7. **Day 7 | Monitor AWS Resources with Shell Scripting**
+8. **Day 8 | Real-Time Shell Scripting Project**
+9. **Day 9 | Git and GitHub Beginner’s Guide**
+10. **Day 10 | Git Branching Strategy – Important for Interviews**
 
 Each folder may include:
 - 📄 Notes / theory
